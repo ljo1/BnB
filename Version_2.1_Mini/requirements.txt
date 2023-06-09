@@ -1,0 +1,7 @@
+apify_client
+folium
+pandas
+easygui
+tqdm
+matplotlib
+PySimpleGUI
